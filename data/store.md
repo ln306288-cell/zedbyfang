@@ -6,3 +6,4 @@ File này được cập nhật tự động từ Fang Bot.
 | :--- | :--- | :--- | :--- |
 | **AOV** | *Chưa có bản nào* | - | - |
 | **FF TIPA** | *Chưa có bản nào* | - | - |
+| **CFL TIPA** | *Chưa có bản nào* | - | - |

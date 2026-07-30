@@ -6501,6 +6501,15 @@
       "joined_at": "2026-07-30T22:49:25",
       "key_history": [],
       "last_seen_at": "2026-07-30T22:49:32"
+    },
+    "8934130179": {
+      "id": 8934130179,
+      "first_name": "Khang",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T22:50:37",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T22:50:37"
     }
   },
   "games": [

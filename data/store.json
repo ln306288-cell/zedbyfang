@@ -6620,6 +6620,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T23:10:09"
+    },
+    "8809344202": {
+      "id": 8809344202,
+      "first_name": "Wizard",
+      "username": "Wizardcxn1",
+      "is_admin": false,
+      "joined_at": "2026-07-30T23:23:42",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T23:23:42"
     }
   },
   "games": [

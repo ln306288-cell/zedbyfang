@@ -2030,7 +2030,7 @@
           "created_at": "2026-07-29T19:18:18"
         }
       ],
-      "last_seen_at": "2026-07-30T12:49:30"
+      "last_seen_at": "2026-07-30T12:49:37"
     },
     "8929688656": {
       "id": 8929688656,
@@ -4198,6 +4198,15 @@
       "joined_at": "2026-07-30T12:48:31",
       "key_history": [],
       "last_seen_at": "2026-07-30T12:48:45"
+    },
+    "8700423422": {
+      "id": 8700423422,
+      "first_name": "Nguyen Trong Phuc",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T12:49:36",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T12:49:39"
     }
   },
   "games": [

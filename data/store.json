@@ -4382,6 +4382,15 @@
       "joined_at": "2026-07-30T13:21:01",
       "key_history": [],
       "last_seen_at": "2026-07-30T13:21:14"
+    },
+    "8132075002": {
+      "id": 8132075002,
+      "first_name": "nguyen thien",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T13:38:28",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T13:38:31"
     }
   },
   "games": [

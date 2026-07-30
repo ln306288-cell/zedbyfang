@@ -4625,6 +4625,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T14:52:49"
+    },
+    "5347888696": {
+      "id": 5347888696,
+      "first_name": "Zalik",
+      "username": "xegowu",
+      "is_admin": false,
+      "joined_at": "2026-07-30T14:53:01",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T14:53:05"
     }
   },
   "games": [

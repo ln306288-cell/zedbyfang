@@ -5179,6 +5179,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T17:09:44"
+    },
+    "1043868626": {
+      "id": 1043868626,
+      "first_name": "Chàng béo",
+      "username": "wthi3n",
+      "is_admin": false,
+      "joined_at": "2026-07-30T17:18:02",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T17:18:05"
     }
   },
   "games": [

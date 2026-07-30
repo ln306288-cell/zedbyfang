@@ -3611,6 +3611,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T10:41:48"
+    },
+    "8612577291": {
+      "id": 8612577291,
+      "first_name": "Rose",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T10:42:56",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T10:42:59"
     }
   },
   "games": [

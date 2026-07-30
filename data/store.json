@@ -6992,6 +6992,15 @@
         }
       ],
       "last_seen_at": "2026-07-31T03:03:31"
+    },
+    "6720780225": {
+      "id": 6720780225,
+      "first_name": "Ngọc Châu",
+      "username": "chauuytin",
+      "is_admin": false,
+      "joined_at": "2026-07-31T03:05:27",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T03:05:30"
     }
   },
   "games": [

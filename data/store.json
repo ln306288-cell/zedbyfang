@@ -2929,7 +2929,7 @@
       "is_admin": false,
       "joined_at": "2026-07-30T08:14:33",
       "key_history": [],
-      "last_seen_at": "2026-07-30T08:14:35"
+      "last_seen_at": "2026-07-30T09:27:48"
     },
     "8661763052": {
       "id": 8661763052,
@@ -3168,7 +3168,7 @@
       "is_admin": false,
       "joined_at": "2026-07-30T09:21:52",
       "key_history": [],
-      "last_seen_at": "2026-07-30T09:22:29"
+      "last_seen_at": "2026-07-30T09:27:46"
     },
     "7033589114": {
       "id": 7033589114,
@@ -3187,6 +3187,15 @@
       "joined_at": "2026-07-30T09:25:30",
       "key_history": [],
       "last_seen_at": "2026-07-30T09:25:57"
+    },
+    "7396075414": {
+      "id": 7396075414,
+      "first_name": "Призрак",
+      "username": "Witherit1922",
+      "is_admin": false,
+      "joined_at": "2026-07-30T09:27:45",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T09:27:49"
     }
   },
   "games": [

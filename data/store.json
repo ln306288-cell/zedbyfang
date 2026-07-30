@@ -4456,6 +4456,15 @@
       "joined_at": "2026-07-30T14:08:12",
       "key_history": [],
       "last_seen_at": "2026-07-30T14:08:15"
+    },
+    "1820977602": {
+      "id": 1820977602,
+      "first_name": "co",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T14:09:26",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T14:09:29"
     }
   },
   "games": [

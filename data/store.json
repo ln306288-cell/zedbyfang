@@ -6399,6 +6399,15 @@
       "joined_at": "2026-07-30T22:01:40",
       "key_history": [],
       "last_seen_at": "2026-07-30T22:01:59"
+    },
+    "7862370986": {
+      "id": 7862370986,
+      "first_name": "A",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T22:03:29",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T22:03:33"
     }
   },
   "games": [

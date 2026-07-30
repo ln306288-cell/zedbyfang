@@ -3327,6 +3327,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T09:33:02"
+    },
+    "8856289371": {
+      "id": 8856289371,
+      "first_name": "Văn",
+      "username": "vanthangtrumipa",
+      "is_admin": false,
+      "joined_at": "2026-07-30T09:39:01",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T09:39:01"
     }
   },
   "games": [

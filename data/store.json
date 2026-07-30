@@ -5900,6 +5900,15 @@
       "joined_at": "2026-07-30T20:27:03",
       "key_history": [],
       "last_seen_at": "2026-07-30T20:27:10"
+    },
+    "8483821847": {
+      "id": 8483821847,
+      "first_name": "Phạm",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T20:29:02",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T20:29:02"
     }
   },
   "games": [

@@ -6944,7 +6944,16 @@
       "is_admin": false,
       "joined_at": "2026-07-31T02:13:51",
       "key_history": [],
-      "last_seen_at": "2026-07-31T02:13:56"
+      "last_seen_at": "2026-07-31T02:14:06"
+    },
+    "8025473308": {
+      "id": 8025473308,
+      "first_name": "Thắng",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T02:14:09",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T02:14:09"
     }
   },
   "games": [

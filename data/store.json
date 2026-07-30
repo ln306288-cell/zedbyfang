@@ -6437,6 +6437,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T22:06:20"
+    },
+    "7715368313": {
+      "id": 7715368313,
+      "first_name": "AnNotCheat",
+      "username": "AnNotCheat",
+      "is_admin": false,
+      "joined_at": "2026-07-30T22:20:25",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T22:20:28"
     }
   },
   "games": [

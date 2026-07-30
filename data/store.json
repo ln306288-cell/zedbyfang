@@ -3474,7 +3474,16 @@
       "is_admin": false,
       "joined_at": "2026-07-30T09:57:04",
       "key_history": [],
-      "last_seen_at": "2026-07-30T09:57:45"
+      "last_seen_at": "2026-07-30T09:57:54"
+    },
+    "7819789558": {
+      "id": 7819789558,
+      "first_name": "Yukina",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T09:57:53",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T09:57:53"
     }
   },
   "games": [

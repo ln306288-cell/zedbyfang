@@ -5,6 +5,7 @@ File này được cập nhật tự động từ Fang Bot.
 | Game | Phiên bản | Link Driver / Download | Link Vượt Lấy Key |
 | :--- | :--- | :--- | :--- |
 | **AOV** | AOV VIP | [Tải Driver](https://drive.google.com/file/d/1YKm167OvJya-hhJPt1SU0dkFM6WOfl4l/view?usp=drivesdk) | [Lấy Key](https://authtool.app/get-key?code=ab9995c0-7afd-4306-89bf-f36773a380cd) |
+|  | AOV HN MOD | [Tải Driver](https://drive.google.com/file/d/17GRduZfnyf58Ywg9l-qCzVeiJe9FnfrO/view?usp=drivesdk) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
 | **FF TIPA ( Chỉ Ios Thấp )** | SUDO FF | [Tải Driver](https://t.me/thezedone/12925) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
 |  | YUKI | [Tải Driver](https://t.me/thezedone/13225) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
 |  | SHARK FF | [Tải Driver](https://drive.google.com/file/d/1_iXBVhHMv4SmX9SL77iY_sGvyiQo69kf/view?usp=drivesdk) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |

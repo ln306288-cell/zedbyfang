@@ -6629,6 +6629,15 @@
       "joined_at": "2026-07-30T23:23:42",
       "key_history": [],
       "last_seen_at": "2026-07-30T23:23:57"
+    },
+    "6993553425": {
+      "id": 6993553425,
+      "first_name": "Dinh Thai",
+      "username": "dthaidz",
+      "is_admin": false,
+      "joined_at": "2026-07-30T23:26:37",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T23:26:42"
     }
   },
   "games": [

@@ -6519,6 +6519,15 @@
       "joined_at": "2026-07-30T22:52:00",
       "key_history": [],
       "last_seen_at": "2026-07-30T22:52:11"
+    },
+    "8666645025": {
+      "id": 8666645025,
+      "first_name": "zk",
+      "username": "loc2b2t",
+      "is_admin": false,
+      "joined_at": "2026-07-30T22:53:11",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T22:53:11"
     }
   },
   "games": [

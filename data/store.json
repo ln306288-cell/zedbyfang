@@ -6695,6 +6695,15 @@
       "joined_at": "2026-07-30T23:31:43",
       "key_history": [],
       "last_seen_at": "2026-07-30T23:40:17"
+    },
+    "8844906868": {
+      "id": 8844906868,
+      "first_name": "Saw",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T23:48:46",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T23:48:49"
     }
   },
   "games": [

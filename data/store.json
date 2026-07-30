@@ -2761,7 +2761,7 @@
           "created_at": "2026-07-29T23:31:11"
         }
       ],
-      "last_seen_at": "2026-07-30T08:37:20"
+      "last_seen_at": "2026-07-30T08:37:31"
     },
     "8569048258": {
       "id": 8569048258,
@@ -2900,6 +2900,15 @@
       "joined_at": "2026-07-30T08:31:22",
       "key_history": [],
       "last_seen_at": "2026-07-30T08:31:29"
+    },
+    "6774047013": {
+      "id": 6774047013,
+      "first_name": "Thank",
+      "username": "quangthank",
+      "is_admin": false,
+      "joined_at": "2026-07-30T08:37:27",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T08:37:30"
     }
   },
   "games": [

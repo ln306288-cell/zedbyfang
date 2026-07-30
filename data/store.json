@@ -6882,6 +6882,15 @@
         }
       ],
       "last_seen_at": "2026-07-31T01:41:23"
+    },
+    "8646471309": {
+      "id": 8646471309,
+      "first_name": "Kizaru",
+      "username": "dungdeyavta",
+      "is_admin": false,
+      "joined_at": "2026-07-31T01:44:39",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T01:44:39"
     }
   },
   "games": [

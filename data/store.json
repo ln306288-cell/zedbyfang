@@ -5123,6 +5123,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T17:00:22"
+    },
+    "7893329656": {
+      "id": 7893329656,
+      "first_name": "minh",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T17:01:30",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T17:01:30"
     }
   },
   "games": [

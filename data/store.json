@@ -5345,6 +5345,15 @@
       "joined_at": "2026-07-30T18:21:22",
       "key_history": [],
       "last_seen_at": "2026-07-30T18:21:28"
+    },
+    "1963336003": {
+      "id": 1963336003,
+      "first_name": "Trần",
+      "username": "sleepytome",
+      "is_admin": false,
+      "joined_at": "2026-07-30T18:24:33",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T18:24:37"
     }
   },
   "games": [

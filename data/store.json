@@ -92,7 +92,7 @@
       "is_admin": false,
       "joined_at": "2026-07-29T09:24:07",
       "key_history": [],
-      "last_seen_at": "2026-07-30T08:49:54"
+      "last_seen_at": "2026-07-30T08:49:59"
     },
     "8653157029": {
       "id": 8653157029,
@@ -2975,6 +2975,15 @@
       "joined_at": "2026-07-30T08:46:49",
       "key_history": [],
       "last_seen_at": "2026-07-30T08:47:02"
+    },
+    "7002104104": {
+      "id": 7002104104,
+      "first_name": "No Name",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T08:50:03",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T08:50:03"
     }
   },
   "games": [

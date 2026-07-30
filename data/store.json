@@ -4902,6 +4902,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T15:50:34"
+    },
+    "5938310830": {
+      "id": 5938310830,
+      "first_name": "Duc",
+      "username": "soniczzhandsome",
+      "is_admin": false,
+      "joined_at": "2026-07-30T15:52:44",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T15:52:47"
     }
   },
   "games": [

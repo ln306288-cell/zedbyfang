@@ -3657,6 +3657,15 @@
       "joined_at": "2026-07-30T10:45:49",
       "key_history": [],
       "last_seen_at": "2026-07-30T10:46:07"
+    },
+    "5132285306": {
+      "id": 5132285306,
+      "first_name": "Nguyễn Dũng",
+      "username": "aqnadxd",
+      "is_admin": false,
+      "joined_at": "2026-07-30T10:48:43",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T10:48:47"
     }
   },
   "games": [

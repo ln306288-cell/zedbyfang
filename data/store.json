@@ -4226,6 +4226,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T12:50:39"
+    },
+    "1787747359": {
+      "id": 1787747359,
+      "first_name": "Tuấn",
+      "username": "napovn",
+      "is_admin": false,
+      "joined_at": "2026-07-30T12:56:52",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T12:56:52"
     }
   },
   "games": [

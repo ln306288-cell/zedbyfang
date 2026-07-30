@@ -5742,6 +5742,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T20:04:24"
+    },
+    "7092720146": {
+      "id": 7092720146,
+      "first_name": "N",
+      "username": "namtruong2801",
+      "is_admin": false,
+      "joined_at": "2026-07-30T20:04:59",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T20:05:04"
     }
   },
   "games": [

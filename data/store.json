@@ -5779,6 +5779,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T20:05:16"
+    },
+    "7969690190": {
+      "id": 7969690190,
+      "first_name": "VN",
+      "username": "Waldut",
+      "is_admin": false,
+      "joined_at": "2026-07-30T20:12:23",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T20:12:23"
     }
   },
   "games": [

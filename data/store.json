@@ -7121,6 +7121,15 @@
       "joined_at": "2026-07-31T04:24:03",
       "key_history": [],
       "last_seen_at": "2026-07-31T04:24:18"
+    },
+    "8948177574": {
+      "id": 8948177574,
+      "first_name": "Duy",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T06:15:32",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T06:15:32"
     }
   },
   "games": [

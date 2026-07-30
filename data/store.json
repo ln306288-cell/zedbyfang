@@ -5798,6 +5798,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T20:13:51"
+    },
+    "6888193614": {
+      "id": 6888193614,
+      "first_name": "Iki",
+      "username": "himynameisiki",
+      "is_admin": false,
+      "joined_at": "2026-07-30T20:14:42",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T20:14:42"
     }
   },
   "games": [

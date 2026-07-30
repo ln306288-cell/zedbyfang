@@ -4837,6 +4837,15 @@
       "joined_at": "2026-07-30T15:43:15",
       "key_history": [],
       "last_seen_at": "2026-07-30T15:43:22"
+    },
+    "7848415720": {
+      "id": 7848415720,
+      "first_name": "Hiếu",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T15:45:13",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T15:45:13"
     }
   },
   "games": [

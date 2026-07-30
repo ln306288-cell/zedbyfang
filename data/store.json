@@ -3392,6 +3392,15 @@
         }
       ],
       "last_seen_at": "2026-07-30T09:41:27"
+    },
+    "7847627620": {
+      "id": 7847627620,
+      "first_name": "Ahaha",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T09:42:32",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T09:42:35"
     }
   },
   "games": [

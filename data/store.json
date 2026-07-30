@@ -6436,7 +6436,7 @@
           "created_at": "2026-07-30T22:06:20"
         }
       ],
-      "last_seen_at": "2026-07-30T22:22:57"
+      "last_seen_at": "2026-07-30T22:23:05"
     },
     "7715368313": {
       "id": 7715368313,
@@ -6446,6 +6446,15 @@
       "joined_at": "2026-07-30T22:20:25",
       "key_history": [],
       "last_seen_at": "2026-07-30T22:20:43"
+    },
+    "8400901161": {
+      "id": 8400901161,
+      "first_name": "vantien nguyen",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T22:23:03",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T22:23:03"
     }
   },
   "games": [

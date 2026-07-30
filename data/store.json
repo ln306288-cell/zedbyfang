@@ -5630,6 +5630,15 @@
       "joined_at": "2026-07-30T19:35:46",
       "key_history": [],
       "last_seen_at": "2026-07-30T19:35:58"
+    },
+    "6298864924": {
+      "id": 6298864924,
+      "first_name": "Hà",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T19:36:05",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T19:36:09"
     }
   },
   "games": [

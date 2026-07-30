@@ -1130,7 +1130,7 @@
       "is_admin": false,
       "joined_at": "2026-07-29T10:36:38",
       "key_history": [],
-      "last_seen_at": "2026-07-30T12:33:20"
+      "last_seen_at": "2026-07-30T12:33:28"
     },
     "1414460636": {
       "id": 1414460636,
@@ -4060,6 +4060,15 @@
       "joined_at": "2026-07-30T12:32:24",
       "key_history": [],
       "last_seen_at": "2026-07-30T12:32:27"
+    },
+    "7314883206": {
+      "id": 7314883206,
+      "first_name": "Nguyễn",
+      "username": "nguyenkiet207",
+      "is_admin": false,
+      "joined_at": "2026-07-30T12:33:29",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T12:33:29"
     }
   },
   "games": [

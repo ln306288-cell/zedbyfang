@@ -3721,6 +3721,15 @@
       "joined_at": "2026-07-30T10:53:16",
       "key_history": [],
       "last_seen_at": "2026-07-30T10:56:30"
+    },
+    "8309137878": {
+      "id": 8309137878,
+      "first_name": "Hoàng",
+      "username": "hoanghieu133",
+      "is_admin": false,
+      "joined_at": "2026-07-30T11:08:59",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T11:09:02"
     }
   },
   "games": [

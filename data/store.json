@@ -6536,7 +6536,7 @@
       "is_admin": false,
       "joined_at": "2026-07-30T22:50:37",
       "key_history": [],
-      "last_seen_at": "2026-07-30T22:50:59"
+      "last_seen_at": "2026-07-30T23:07:03"
     },
     "5300934311": {
       "id": 5300934311,
@@ -6573,6 +6573,15 @@
       "joined_at": "2026-07-30T23:01:15",
       "key_history": [],
       "last_seen_at": "2026-07-30T23:01:15"
+    },
+    "6032553805": {
+      "id": 6032553805,
+      "first_name": "I miss her",
+      "username": "keisocute",
+      "is_admin": false,
+      "joined_at": "2026-07-30T23:07:05",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T23:07:05"
     }
   },
   "games": [

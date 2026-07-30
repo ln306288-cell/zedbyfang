@@ -5086,6 +5086,15 @@
       "joined_at": "2026-07-30T16:53:10",
       "key_history": [],
       "last_seen_at": "2026-07-30T16:53:25"
+    },
+    "8966502546": {
+      "id": 8966502546,
+      "first_name": "Bố",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-30T16:56:13",
+      "key_history": [],
+      "last_seen_at": "2026-07-30T16:56:18"
     }
   },
   "games": [

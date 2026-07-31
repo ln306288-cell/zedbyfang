@@ -7433,6 +7433,15 @@
       "joined_at": "2026-07-31T09:21:50",
       "key_history": [],
       "last_seen_at": "2026-07-31T09:22:06"
+    },
+    "8172742998": {
+      "id": 8172742998,
+      "first_name": "v.",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T09:35:22",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T09:35:25"
     }
   },
   "games": [

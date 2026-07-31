@@ -9518,6 +9518,15 @@
         }
       ],
       "last_seen_at": "2026-08-01T03:52:37"
+    },
+    "8829874379": {
+      "id": 8829874379,
+      "first_name": "Hoài",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T05:44:43",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T05:44:47"
     }
   },
   "games": [

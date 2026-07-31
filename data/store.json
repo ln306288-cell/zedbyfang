@@ -8443,6 +8443,15 @@
       "joined_at": "2026-07-31T17:35:28",
       "key_history": [],
       "last_seen_at": "2026-07-31T17:35:31"
+    },
+    "2018045229": {
+      "id": 2018045229,
+      "first_name": "Mr.Trần",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T18:02:06",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T18:02:06"
     }
   },
   "games": [

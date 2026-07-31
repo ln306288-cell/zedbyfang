@@ -9454,6 +9454,24 @@
       "joined_at": "2026-08-01T03:03:01",
       "key_history": [],
       "last_seen_at": "2026-08-01T03:03:17"
+    },
+    "6757792397": {
+      "id": 6757792397,
+      "first_name": "Nam Cuong",
+      "username": "NooKc01",
+      "is_admin": false,
+      "joined_at": "2026-08-01T03:06:29",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T03:06:29"
+    },
+    "7677543873": {
+      "id": 7677543873,
+      "first_name": ".",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T03:06:30",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T03:06:33"
     }
   },
   "games": [

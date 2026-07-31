@@ -8242,6 +8242,15 @@
       "joined_at": "2026-07-31T15:10:08",
       "key_history": [],
       "last_seen_at": "2026-07-31T15:10:24"
+    },
+    "1786159426": {
+      "id": 1786159426,
+      "first_name": "Otis",
+      "username": "Otis_adr",
+      "is_admin": false,
+      "joined_at": "2026-07-31T15:32:01",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T15:32:01"
     }
   },
   "games": [

@@ -6190,8 +6190,18 @@
       "username": "Huy12155555",
       "is_admin": false,
       "joined_at": "2026-07-30T19:35:46",
-      "key_history": [],
-      "last_seen_at": "2026-07-31T10:07:36"
+      "key_history": [
+        {
+          "game_id": "61a1c7e8b5",
+          "game_name": "AOV",
+          "version_id": "708b77fac3",
+          "version_name": "AOV VIP",
+          "driver_url": "https://drive.google.com/file/d/1YKm167OvJya-hhJPt1SU0dkFM6WOfl4l/view?usp=drivesdk",
+          "key_url": "https://authtool.app/get-key?code=ab9995c0-7afd-4306-89bf-f36773a380cd",
+          "created_at": "2026-07-31T10:09:30"
+        }
+      ],
+      "last_seen_at": "2026-07-31T10:09:29"
     },
     "6298864924": {
       "id": 6298864924,

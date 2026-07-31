@@ -8333,6 +8333,15 @@
       "joined_at": "2026-07-31T16:44:01",
       "key_history": [],
       "last_seen_at": "2026-07-31T16:44:17"
+    },
+    "8473089722": {
+      "id": 8473089722,
+      "first_name": "Minh",
+      "username": "CtHoangMinh01",
+      "is_admin": false,
+      "joined_at": "2026-07-31T16:45:13",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T16:45:15"
     }
   },
   "games": [

@@ -8561,6 +8561,15 @@
       "joined_at": "2026-07-31T19:13:18",
       "key_history": [],
       "last_seen_at": "2026-07-31T19:13:41"
+    },
+    "7534095931": {
+      "id": 7534095931,
+      "first_name": "Quang",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T19:17:23",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T19:17:23"
     }
   },
   "games": [

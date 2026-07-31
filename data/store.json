@@ -9056,6 +9056,15 @@
       "joined_at": "2026-07-31T23:03:48",
       "key_history": [],
       "last_seen_at": "2026-07-31T23:04:01"
+    },
+    "8993740691": {
+      "id": 8993740691,
+      "first_name": "Duc",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T23:12:33",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T23:12:33"
     }
   },
   "games": [

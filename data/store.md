@@ -16,3 +16,4 @@ File này được cập nhật tự động từ Fang Bot.
 |  | VINGOLD MOD | [Tải Driver](https://drive.google.com/file/d/1PLsEG2Cio6jHp9iqKvaN6OMojiSKFXLH/view?usp=drivesdk) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
 | **VALORANT** | VALORANT VIP | [Tải Driver](https://drive.google.com/file/d/1MQ4K1EgcuAgdOP5BgqxmcWr9lwrW71VX/view?usp=drivesdk) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
 | **CFL** | CFL TIP VIP | [Tải Driver](https://drive.google.com/file/d/1NKttWHSxzbRAX_Ftq6NzbU_jMP9XVctq/view?usp=drivesdk) | [Lấy Key](https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm) |
+| **DELTA FORCE** | *Chưa có bản nào* | - | - |

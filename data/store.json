@@ -8983,6 +8983,15 @@
       "joined_at": "2026-07-31T22:28:10",
       "key_history": [],
       "last_seen_at": "2026-07-31T22:28:31"
+    },
+    "8138637108": {
+      "id": 8138637108,
+      "first_name": "Trần",
+      "username": "noontranvietnam",
+      "is_admin": false,
+      "joined_at": "2026-07-31T23:00:29",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T23:00:29"
     }
   },
   "games": [

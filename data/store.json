@@ -8955,6 +8955,15 @@
       "joined_at": "2026-07-31T22:21:43",
       "key_history": [],
       "last_seen_at": "2026-07-31T22:21:54"
+    },
+    "6134307348": {
+      "id": 6134307348,
+      "first_name": "Phạm",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T22:28:10",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T22:28:13"
     }
   },
   "games": [

@@ -8215,6 +8215,15 @@
         }
       ],
       "last_seen_at": "2026-07-31T15:10:03"
+    },
+    "7046487675": {
+      "id": 7046487675,
+      "first_name": "Nguyễn",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T15:10:08",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T15:10:08"
     }
   },
   "games": [

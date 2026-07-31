@@ -9184,6 +9184,15 @@
       "joined_at": "2026-08-01T00:56:17",
       "key_history": [],
       "last_seen_at": "2026-08-01T00:56:21"
+    },
+    "8722225943": {
+      "id": 8722225943,
+      "first_name": "Hi",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T00:58:54",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T00:58:57"
     }
   },
   "games": [

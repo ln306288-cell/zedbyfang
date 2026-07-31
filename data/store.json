@@ -625,6 +625,15 @@
       "joined_at": "2026-07-29T09:28:10",
       "key_history": [
         {
+          "game_id": "1a51c0e77a",
+          "game_name": "VALORANT",
+          "version_id": "b8d4ed8b71",
+          "version_name": "VALORANT VIP",
+          "driver_url": "https://drive.google.com/file/d/1MQ4K1EgcuAgdOP5BgqxmcWr9lwrW71VX/view?usp=drivesdk",
+          "key_url": "https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm",
+          "created_at": "2026-07-31T09:06:02"
+        },
+        {
           "game_id": "92e73b51ef",
           "game_name": "PUBG",
           "version_id": "88d9a292fe",
@@ -652,7 +661,7 @@
           "created_at": "2026-07-30T20:57:57"
         }
       ],
-      "last_seen_at": "2026-07-30T21:30:51"
+      "last_seen_at": "2026-07-31T09:06:02"
     },
     "8855054430": {
       "id": 8855054430,

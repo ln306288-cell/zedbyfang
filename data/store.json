@@ -2098,7 +2098,7 @@
       "is_admin": false,
       "joined_at": "2026-07-29T18:00:16",
       "key_history": [],
-      "last_seen_at": "2026-07-30T19:41:51"
+      "last_seen_at": "2026-07-31T19:45:59"
     },
     "8162810707": {
       "id": 8162810707,
@@ -8608,6 +8608,15 @@
       "joined_at": "2026-07-31T19:28:18",
       "key_history": [],
       "last_seen_at": "2026-07-31T19:28:31"
+    },
+    "8793351713": {
+      "id": 8793351713,
+      "first_name": "Đức",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T19:45:54",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T19:45:54"
     }
   },
   "games": [

@@ -7304,6 +7304,15 @@
         }
       ],
       "last_seen_at": "2026-07-31T08:48:11"
+    },
+    "6488824521": {
+      "id": 6488824521,
+      "first_name": "Thế",
+      "username": "the_minh36",
+      "is_admin": false,
+      "joined_at": "2026-07-31T09:01:58",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T09:01:58"
     }
   },
   "games": [

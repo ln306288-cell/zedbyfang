@@ -7786,6 +7786,15 @@
       "joined_at": "2026-07-31T12:09:39",
       "key_history": [],
       "last_seen_at": "2026-07-31T12:13:19"
+    },
+    "7826350913": {
+      "id": 7826350913,
+      "first_name": "Fake Dxsta",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T12:29:06",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T12:29:09"
     }
   },
   "games": [

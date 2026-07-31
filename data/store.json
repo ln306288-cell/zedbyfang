@@ -8543,6 +8543,15 @@
       "joined_at": "2026-07-31T18:58:17",
       "key_history": [],
       "last_seen_at": "2026-07-31T18:59:23"
+    },
+    "8161504878": {
+      "id": 8161504878,
+      "first_name": "Cặc",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T19:09:53",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T19:09:53"
     }
   },
   "games": [

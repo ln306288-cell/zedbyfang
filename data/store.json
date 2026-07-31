@@ -9240,6 +9240,15 @@
         }
       ],
       "last_seen_at": "2026-08-01T01:05:42"
+    },
+    "5771150172": {
+      "id": 5771150172,
+      "first_name": "Cậu Vàng",
+      "username": "cauvanglo",
+      "is_admin": false,
+      "joined_at": "2026-08-01T01:11:51",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T01:11:54"
     }
   },
   "games": [

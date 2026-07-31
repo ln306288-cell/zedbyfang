@@ -8919,6 +8919,15 @@
         }
       ],
       "last_seen_at": "2026-07-31T22:14:26"
+    },
+    "6611297014": {
+      "id": 6611297014,
+      "first_name": "Gia",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-07-31T22:15:19",
+      "key_history": [],
+      "last_seen_at": "2026-07-31T22:15:23"
     }
   },
   "games": [

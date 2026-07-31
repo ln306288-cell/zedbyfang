@@ -9221,6 +9221,15 @@
         }
       ],
       "last_seen_at": "2026-08-01T01:01:45"
+    },
+    "8470717826": {
+      "id": 8470717826,
+      "first_name": "zz",
+      "username": "lIIIllIIlIIIll",
+      "is_admin": false,
+      "joined_at": "2026-08-01T01:05:17",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T01:05:17"
     }
   },
   "games": [

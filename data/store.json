@@ -275,7 +275,7 @@
           "created_at": "2026-07-30T08:15:59"
         }
       ],
-      "last_seen_at": "2026-08-01T17:06:54"
+      "last_seen_at": "2026-08-01T17:06:57"
     },
     "7267113194": {
       "id": 7267113194,
@@ -4597,7 +4597,7 @@
       "is_admin": false,
       "joined_at": "2026-07-29T23:41:11",
       "key_history": [],
-      "last_seen_at": "2026-08-01T17:06:50"
+      "last_seen_at": "2026-08-01T17:06:56"
     },
     "8678135896": {
       "id": 8678135896,
@@ -6701,6 +6701,15 @@
         {
           "game_id": "61a1c7e8b5",
           "game_name": "AOV",
+          "version_id": "708b77fac3",
+          "version_name": "AOV VIP",
+          "driver_url": "https://drive.google.com/file/d/1YKm167OvJya-hhJPt1SU0dkFM6WOfl4l/view?usp=drivesdk",
+          "key_url": "https://authtool.app/get-key?code=ab9995c0-7afd-4306-89bf-f36773a380cd",
+          "created_at": "2026-08-01T17:07:01"
+        },
+        {
+          "game_id": "61a1c7e8b5",
+          "game_name": "AOV",
           "version_id": "b1fedbf3c2",
           "version_name": "AOV HN MOD",
           "driver_url": "https://drive.google.com/file/d/17GRduZfnyf58Ywg9l-qCzVeiJe9FnfrO/view?usp=drivesdk",
@@ -6744,7 +6753,7 @@
           "created_at": "2026-07-30T16:59:57"
         }
       ],
-      "last_seen_at": "2026-08-01T17:06:32"
+      "last_seen_at": "2026-08-01T17:07:00"
     },
     "7893329656": {
       "id": 7893329656,

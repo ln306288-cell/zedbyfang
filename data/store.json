@@ -9956,6 +9956,15 @@
       "joined_at": "2026-08-01T11:41:11",
       "key_history": [],
       "last_seen_at": "2026-08-01T11:41:21"
+    },
+    "8869481141": {
+      "id": 8869481141,
+      "first_name": "Hoang",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T11:48:26",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T11:48:29"
     }
   },
   "games": [

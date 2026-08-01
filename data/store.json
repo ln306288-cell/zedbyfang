@@ -9865,6 +9865,15 @@
       "joined_at": "2026-08-01T08:55:54",
       "key_history": [],
       "last_seen_at": "2026-08-01T08:56:23"
+    },
+    "6542509872": {
+      "id": 6542509872,
+      "first_name": "Hailam",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T09:17:00",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T09:17:00"
     }
   },
   "games": [

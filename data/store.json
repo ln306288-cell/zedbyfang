@@ -10195,6 +10195,15 @@
         }
       ],
       "last_seen_at": "2026-08-01T15:13:20"
+    },
+    "5640647803": {
+      "id": 5640647803,
+      "first_name": "Bảo Đá",
+      "username": "baodark2140",
+      "is_admin": false,
+      "joined_at": "2026-08-01T15:17:47",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T15:17:47"
     }
   },
   "games": [

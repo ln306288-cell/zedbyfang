@@ -10232,6 +10232,15 @@
       "joined_at": "2026-08-01T15:26:45",
       "key_history": [],
       "last_seen_at": "2026-08-01T15:27:50"
+    },
+    "1980502948": {
+      "id": 1980502948,
+      "first_name": "java",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T15:45:10",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T15:45:10"
     }
   },
   "games": [

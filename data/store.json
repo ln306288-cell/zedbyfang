@@ -10703,6 +10703,15 @@
       "joined_at": "2026-08-01T19:43:24",
       "key_history": [],
       "last_seen_at": "2026-08-01T19:43:43"
+    },
+    "8959357073": {
+      "id": 8959357073,
+      "first_name": "minh",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T19:50:40",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T19:50:40"
     }
   },
   "games": [

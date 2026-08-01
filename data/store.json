@@ -11236,6 +11236,15 @@
       "joined_at": "2026-08-02T01:23:12",
       "key_history": [],
       "last_seen_at": "2026-08-02T01:27:30"
+    },
+    "6720430628": {
+      "id": 6720430628,
+      "first_name": "Ngọc Anh",
+      "username": "ngocanh7921",
+      "is_admin": false,
+      "joined_at": "2026-08-02T01:43:51",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T01:43:54"
     }
   },
   "games": [

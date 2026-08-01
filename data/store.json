@@ -10213,6 +10213,15 @@
       "joined_at": "2026-08-01T15:24:32",
       "key_history": [],
       "last_seen_at": "2026-08-01T15:26:21"
+    },
+    "6094536717": {
+      "id": 6094536717,
+      "first_name": "Anh Tuan",
+      "username": "natdzhi",
+      "is_admin": false,
+      "joined_at": "2026-08-01T15:26:45",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T15:26:49"
     }
   },
   "games": [

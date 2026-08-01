@@ -10860,6 +10860,15 @@
       "joined_at": "2026-08-01T20:52:49",
       "key_history": [],
       "last_seen_at": "2026-08-01T20:52:56"
+    },
+    "8086207595": {
+      "id": 8086207595,
+      "first_name": "Hi",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T20:54:37",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T20:54:41"
     }
   },
   "games": [

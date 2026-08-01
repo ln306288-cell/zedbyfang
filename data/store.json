@@ -925,6 +925,15 @@
       "joined_at": "2026-07-29T09:32:34",
       "key_history": [
         {
+          "game_id": "7f0a0c5248",
+          "game_name": "DELTA FORCE",
+          "version_id": "d784a971e1",
+          "version_name": "DELTA ACE MOD",
+          "driver_url": "https://drive.google.com/file/d/1b4gLWnDecH5b4LMmFEBhKjhL69Qh9UYL/view?usp=drivesdk",
+          "key_url": "https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm",
+          "created_at": "2026-08-01T20:20:12"
+        },
+        {
           "game_id": "92e73b51ef",
           "game_name": "PUBG",
           "version_id": "4b47b0ca16",
@@ -988,7 +997,7 @@
           "created_at": "2026-07-30T09:28:54"
         }
       ],
-      "last_seen_at": "2026-08-01T20:19:29"
+      "last_seen_at": "2026-08-01T20:20:12"
     },
     "6439665014": {
       "id": 6439665014,

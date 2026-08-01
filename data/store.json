@@ -10167,6 +10167,15 @@
       "joined_at": "2026-08-01T14:46:36",
       "key_history": [],
       "last_seen_at": "2026-08-01T14:46:48"
+    },
+    "8841352374": {
+      "id": 8841352374,
+      "first_name": "Hiếu",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T14:50:17",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T14:50:20"
     }
   },
   "games": [

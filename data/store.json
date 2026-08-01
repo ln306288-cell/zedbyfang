@@ -10317,6 +10317,15 @@
         }
       ],
       "last_seen_at": "2026-08-01T16:07:15"
+    },
+    "6887327783": {
+      "id": 6887327783,
+      "first_name": "Zaahen",
+      "username": "user_zaahen",
+      "is_admin": false,
+      "joined_at": "2026-08-01T16:13:21",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T16:13:21"
     }
   },
   "games": [

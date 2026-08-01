@@ -11282,6 +11282,15 @@
       "joined_at": "2026-08-02T03:36:36",
       "key_history": [],
       "last_seen_at": "2026-08-02T03:36:36"
+    },
+    "8625456624": {
+      "id": 8625456624,
+      "first_name": "newbie",
+      "username": "newbiehacker01",
+      "is_admin": false,
+      "joined_at": "2026-08-02T03:36:56",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T03:37:00"
     }
   },
   "games": [

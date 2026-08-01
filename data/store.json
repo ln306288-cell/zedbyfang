@@ -10149,6 +10149,15 @@
       "joined_at": "2026-08-01T14:28:36",
       "key_history": [],
       "last_seen_at": "2026-08-01T14:28:49"
+    },
+    "7250121005": {
+      "id": 7250121005,
+      "first_name": "Mario",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T14:41:38",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T14:41:42"
     }
   },
   "games": [

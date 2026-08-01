@@ -9947,6 +9947,15 @@
       "joined_at": "2026-08-01T11:09:39",
       "key_history": [],
       "last_seen_at": "2026-08-01T11:09:39"
+    },
+    "8815951677": {
+      "id": 8815951677,
+      "first_name": "Khang",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-01T11:41:11",
+      "key_history": [],
+      "last_seen_at": "2026-08-01T11:41:11"
     }
   },
   "games": [

@@ -11117,6 +11117,15 @@
       "joined_at": "2026-08-02T00:04:19",
       "key_history": [],
       "last_seen_at": "2026-08-02T00:08:24"
+    },
+    "6020747550": {
+      "id": 6020747550,
+      "first_name": "Hoai Phuong",
+      "username": "hoaiphuongcte",
+      "is_admin": false,
+      "joined_at": "2026-08-02T00:17:13",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T00:17:17"
     }
   },
   "games": [

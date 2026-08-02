@@ -11973,6 +11973,15 @@
       "joined_at": "2026-08-02T19:08:06",
       "key_history": [],
       "last_seen_at": "2026-08-02T19:09:15"
+    },
+    "8626545024": {
+      "id": 8626545024,
+      "first_name": "Duy",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-02T19:34:18",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T19:34:23"
     }
   },
   "games": [

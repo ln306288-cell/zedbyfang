@@ -12238,6 +12238,15 @@
         }
       ],
       "last_seen_at": "2026-08-02T21:49:20"
+    },
+    "5949025986": {
+      "id": 5949025986,
+      "first_name": "Hùng",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-03T00:18:24",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T00:18:24"
     }
   },
   "games": [

@@ -12274,6 +12274,15 @@
       "joined_at": "2026-08-03T02:22:16",
       "key_history": [],
       "last_seen_at": "2026-08-03T02:22:39"
+    },
+    "8534980113": {
+      "id": 8534980113,
+      "first_name": "Cuong",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-03T02:24:36",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T02:24:40"
     }
   },
   "games": [

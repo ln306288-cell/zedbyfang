@@ -11825,6 +11825,15 @@
       "joined_at": "2026-08-02T15:52:58",
       "key_history": [],
       "last_seen_at": "2026-08-02T15:53:15"
+    },
+    "8413817646": {
+      "id": 8413817646,
+      "first_name": "An",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-02T16:03:20",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T16:03:24"
     }
   },
   "games": [

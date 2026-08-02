@@ -12092,6 +12092,15 @@
         }
       ],
       "last_seen_at": "2026-08-02T20:34:59"
+    },
+    "8197782972": {
+      "id": 8197782972,
+      "first_name": "Fan",
+      "username": "pjzzhzbxb",
+      "is_admin": false,
+      "joined_at": "2026-08-02T21:05:31",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T21:05:31"
     }
   },
   "games": [

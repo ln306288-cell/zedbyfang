@@ -12064,6 +12064,15 @@
       "joined_at": "2026-08-02T20:17:03",
       "key_history": [],
       "last_seen_at": "2026-08-02T20:17:33"
+    },
+    "8101613390": {
+      "id": 8101613390,
+      "first_name": "Nguyen Minh",
+      "username": "kme1021",
+      "is_admin": false,
+      "joined_at": "2026-08-02T20:19:59",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T20:20:03"
     }
   },
   "games": [

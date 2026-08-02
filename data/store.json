@@ -11955,6 +11955,15 @@
         }
       ],
       "last_seen_at": "2026-08-02T19:01:53"
+    },
+    "7613811952": {
+      "id": 7613811952,
+      "first_name": "SHOP",
+      "username": "SHOPAZAN",
+      "is_admin": false,
+      "joined_at": "2026-08-02T19:08:06",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T19:08:06"
     }
   },
   "games": [

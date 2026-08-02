@@ -12358,6 +12358,15 @@
         }
       ],
       "last_seen_at": "2026-08-03T05:37:49"
+    },
+    "8879784977": {
+      "id": 8879784977,
+      "first_name": "Tuan Anh",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-03T06:18:11",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T06:18:15"
     }
   },
   "games": [

@@ -4316,7 +4316,7 @@
       "is_admin": false,
       "joined_at": "2026-07-29T22:03:14",
       "key_history": [],
-      "last_seen_at": "2026-08-01T08:43:14"
+      "last_seen_at": "2026-08-02T18:19:56"
     },
     "5927040083": {
       "id": 5927040083,
@@ -11871,6 +11871,15 @@
       "joined_at": "2026-08-02T16:32:11",
       "key_history": [],
       "last_seen_at": "2026-08-02T16:32:21"
+    },
+    "8725969537": {
+      "id": 8725969537,
+      "first_name": "Do",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-02T18:19:52",
+      "key_history": [],
+      "last_seen_at": "2026-08-02T18:19:52"
     }
   },
   "games": [

@@ -12256,6 +12256,15 @@
       "joined_at": "2026-08-03T00:56:53",
       "key_history": [],
       "last_seen_at": "2026-08-03T00:57:06"
+    },
+    "8031605430": {
+      "id": 8031605430,
+      "first_name": "Ngô Đạt",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-03T01:08:30",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T01:08:30"
     }
   },
   "games": [

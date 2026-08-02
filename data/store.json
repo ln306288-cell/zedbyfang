@@ -12247,6 +12247,15 @@
       "joined_at": "2026-08-03T00:18:24",
       "key_history": [],
       "last_seen_at": "2026-08-03T00:18:24"
+    },
+    "6927638055": {
+      "id": 6927638055,
+      "first_name": "Phạm Ngọc",
+      "username": "cushynn",
+      "is_admin": false,
+      "joined_at": "2026-08-03T00:56:53",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T00:56:57"
     }
   },
   "games": [

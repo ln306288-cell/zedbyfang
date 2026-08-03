@@ -5279,7 +5279,7 @@
       "is_admin": false,
       "joined_at": "2026-07-30T08:37:27",
       "key_history": [],
-      "last_seen_at": "2026-08-03T08:24:31"
+      "last_seen_at": "2026-08-03T08:24:39"
     },
     "8567902775": {
       "id": 8567902775,
@@ -12413,6 +12413,15 @@
       "joined_at": "2026-08-03T06:18:11",
       "key_history": [],
       "last_seen_at": "2026-08-03T06:18:26"
+    },
+    "7411771573": {
+      "id": 7411771573,
+      "first_name": "крюгер",
+      "username": "recovereded",
+      "is_admin": false,
+      "joined_at": "2026-08-03T08:24:37",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T08:24:40"
     }
   },
   "games": [

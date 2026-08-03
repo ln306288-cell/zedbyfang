@@ -4847,6 +4847,15 @@
           "version_name": "VALORANT VIP",
           "driver_url": "https://drive.google.com/file/d/1MQ4K1EgcuAgdOP5BgqxmcWr9lwrW71VX/view?usp=drivesdk",
           "key_url": "https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm",
+          "created_at": "2026-08-03T07:24:34"
+        },
+        {
+          "game_id": "1a51c0e77a",
+          "game_name": "VALORANT",
+          "version_id": "b8d4ed8b71",
+          "version_name": "VALORANT VIP",
+          "driver_url": "https://drive.google.com/file/d/1MQ4K1EgcuAgdOP5BgqxmcWr9lwrW71VX/view?usp=drivesdk",
+          "key_url": "https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm",
           "created_at": "2026-08-02T03:49:38"
         },
         {
@@ -4913,7 +4922,7 @@
           "created_at": "2026-07-29T23:19:08"
         }
       ],
-      "last_seen_at": "2026-08-03T07:24:30"
+      "last_seen_at": "2026-08-03T07:24:33"
     },
     "8787083685": {
       "id": 8787083685,

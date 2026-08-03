@@ -12523,6 +12523,15 @@
       "joined_at": "2026-08-03T10:43:11",
       "key_history": [],
       "last_seen_at": "2026-08-03T10:43:50"
+    },
+    "8993663821": {
+      "id": 8993663821,
+      "first_name": "Minh hoàng",
+      "username": "hoang_clone",
+      "is_admin": false,
+      "joined_at": "2026-08-03T10:45:12",
+      "key_history": [],
+      "last_seen_at": "2026-08-03T10:45:12"
     }
   },
   "games": [

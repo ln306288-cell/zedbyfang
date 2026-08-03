@@ -12586,8 +12586,18 @@
       "username": "TienThanh06",
       "is_admin": false,
       "joined_at": "2026-08-03T11:13:49",
-      "key_history": [],
-      "last_seen_at": "2026-08-03T11:13:58"
+      "key_history": [
+        {
+          "game_id": "a73330c1c9",
+          "game_name": "FF TIPA ( Chỉ Ios Thấp )",
+          "version_id": "a2cff9ae89",
+          "version_name": "YUKI",
+          "driver_url": "https://t.me/thezedone/13225",
+          "key_url": "https://v5.ppapikey.xyz/get-api-link?tokenID=264&package_id=48058&username=pubgm",
+          "created_at": "2026-08-03T11:14:08"
+        }
+      ],
+      "last_seen_at": "2026-08-03T11:14:08"
     }
   },
   "games": [

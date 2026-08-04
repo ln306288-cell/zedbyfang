@@ -13738,6 +13738,15 @@
       "joined_at": "2026-08-04T21:26:24",
       "key_history": [],
       "last_seen_at": "2026-08-04T21:26:37"
+    },
+    "7881918834": {
+      "id": 7881918834,
+      "first_name": "김",
+      "username": "sungjin05",
+      "is_admin": false,
+      "joined_at": "2026-08-04T21:53:00",
+      "key_history": [],
+      "last_seen_at": "2026-08-04T21:53:04"
     }
   },
   "games": [

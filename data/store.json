@@ -14929,6 +14929,15 @@
       "joined_at": "2026-08-07T01:51:46",
       "key_history": [],
       "last_seen_at": "2026-08-07T01:51:46"
+    },
+    "6322251304": {
+      "id": 6322251304,
+      "first_name": "Oishi",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-07T05:03:05",
+      "key_history": [],
+      "last_seen_at": "2026-08-07T05:03:08"
     }
   },
   "games": [

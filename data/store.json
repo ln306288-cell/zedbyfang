@@ -14653,6 +14653,15 @@
       "joined_at": "2026-08-06T16:04:05",
       "key_history": [],
       "last_seen_at": "2026-08-06T16:04:32"
+    },
+    "7126969100": {
+      "id": 7126969100,
+      "first_name": "Xiao",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-06T18:23:35",
+      "key_history": [],
+      "last_seen_at": "2026-08-06T18:23:35"
     }
   },
   "games": [

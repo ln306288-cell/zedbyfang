@@ -14910,6 +14910,15 @@
       "joined_at": "2026-08-07T01:03:58",
       "key_history": [],
       "last_seen_at": "2026-08-07T01:06:30"
+    },
+    "6794629307": {
+      "id": 6794629307,
+      "first_name": "Obscure",
+      "username": "obscure9x",
+      "is_admin": false,
+      "joined_at": "2026-08-07T01:51:46",
+      "key_history": [],
+      "last_seen_at": "2026-08-07T01:51:46"
     }
   },
   "games": [

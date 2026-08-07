@@ -14993,6 +14993,15 @@
         }
       ],
       "last_seen_at": "2026-08-07T07:58:14"
+    },
+    "8308891384": {
+      "id": 8308891384,
+      "first_name": "Lắm",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-07T08:21:40",
+      "key_history": [],
+      "last_seen_at": "2026-08-07T08:21:43"
     }
   },
   "games": [

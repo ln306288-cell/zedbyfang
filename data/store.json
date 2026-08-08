@@ -16037,6 +16037,15 @@
         }
       ],
       "last_seen_at": "2026-08-09T02:07:42"
+    },
+    "8668384059": {
+      "id": 8668384059,
+      "first_name": "Nam",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-09T04:55:41",
+      "key_history": [],
+      "last_seen_at": "2026-08-09T04:55:44"
     }
   },
   "games": [

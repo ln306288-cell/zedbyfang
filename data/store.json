@@ -15725,6 +15725,15 @@
         }
       ],
       "last_seen_at": "2026-08-08T15:16:37"
+    },
+    "7756999987": {
+      "id": 7756999987,
+      "first_name": "Nguyễn",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-08T18:42:53",
+      "key_history": [],
+      "last_seen_at": "2026-08-08T18:42:57"
     }
   },
   "games": [

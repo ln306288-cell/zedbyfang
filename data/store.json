@@ -15856,6 +15856,15 @@
         }
       ],
       "last_seen_at": "2026-08-08T20:01:49"
+    },
+    "8018548329": {
+      "id": 8018548329,
+      "first_name": "Lương",
+      "username": "",
+      "is_admin": false,
+      "joined_at": "2026-08-08T20:07:12",
+      "key_history": [],
+      "last_seen_at": "2026-08-08T20:07:12"
     }
   },
   "games": [

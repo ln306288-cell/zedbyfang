@@ -15946,6 +15946,15 @@
       "joined_at": "2026-08-08T21:05:00",
       "key_history": [],
       "last_seen_at": "2026-08-08T21:05:32"
+    },
+    "8193597522": {
+      "id": 8193597522,
+      "first_name": "Lương",
+      "username": "trandanhtoan",
+      "is_admin": false,
+      "joined_at": "2026-08-08T22:33:29",
+      "key_history": [],
+      "last_seen_at": "2026-08-08T22:33:29"
     }
   },
   "games": [

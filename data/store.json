@@ -15937,6 +15937,15 @@
       "joined_at": "2026-08-08T20:49:34",
       "key_history": [],
       "last_seen_at": "2026-08-08T20:50:23"
+    },
+    "6200185122": {
+      "id": 6200185122,
+      "first_name": "Banking VietNam",
+      "username": "bankinggvietnam",
+      "is_admin": false,
+      "joined_at": "2026-08-08T21:05:00",
+      "key_history": [],
+      "last_seen_at": "2026-08-08T21:05:03"
     }
   },
   "games": [
